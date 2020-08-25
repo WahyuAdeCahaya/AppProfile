@@ -22,7 +22,7 @@
         android:layout_margin="16dp"
         android:orientation="vertical">
         <EditText
-            android:id="@+id/edtName"
+            android:id="@+id/edtNama"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/nama"
@@ -32,12 +32,12 @@
             android:imeOptions="actionNext"/>
         <Spinner
             android:layout_marginTop="16dp"
-            android:id="@+id/spinnerGender"
+            android:id="@+id/spinnerGenderr"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"/>
         <EditText
-            android:id="@+id/edtEmail"
+            android:id="@+id/edtEmaill"
             android:layout_marginTop="16dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -47,7 +47,7 @@
             android:inputType="textEmailAddress"
             android:imeOptions="actionNext"/>
         <EditText
-            android:id="@+id/edtTelp"
+            android:id="@+id/edtTelpon"
             android:layout_marginTop="16dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
